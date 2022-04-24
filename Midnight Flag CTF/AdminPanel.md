@@ -8,7 +8,7 @@ The file to download was AdminPanel.apk which is the file format of Android appl
 
 Once I've downloaded the file I decompiled it using [jadx](https://github.com/skylot/jadx).
 
-![jadx](images/jadx.jpg)
+![jadx](https://github.com/arueco/write-up/blob/main/Midnight%20Flag%20CTF/images/jadx.png)
 
 ## 2) Find the interesting code 
 
@@ -16,7 +16,7 @@ To access the interesting code, I went to com.example.login_page.p005ui.adminpan
 
 There are 3 files :
 
-![login_files](images/login_files.jpg)
+![login_files](https://github.com/arueco/write-up/blob/main/Midnight%20Flag%20CTF/images/login_files.png)
 
 In LoginDataSource there are 2 methods which are used to check if the password of the Admin is correct :
 
