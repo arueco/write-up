@@ -513,7 +513,7 @@ Mais, afin de gagner les points de style (que je n'ai malheureusement pas reçus
 
 Ici, *touch cul* ne fait pas ce que vous pouvez penser mais crée un fichier appelé cul.
 
-Ensuite j'ouvre ce fichier avec nano et j'écris le texte suivant :
+Ensuite, j'ouvre ce fichier avec nano et j'écris le texte suivant :
 
 ![alt-text](images/nano.png)
 
