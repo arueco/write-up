@@ -530,6 +530,7 @@ Vous vous demandez sûrement où je veux en venir ! Eh bien c'est très simple, 
 ### Flag
 Les deux méthodes vont mener au même résultat qui est le suivant :
 ![alt-text](images/result.png)
+
 Le flag est donc :
 ```
 interiut{faster_than_thomas_snyder_at_sudoku_you_are}
