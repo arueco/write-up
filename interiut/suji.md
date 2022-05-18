@@ -537,4 +537,4 @@ interiut{faster_than_thomas_snyder_at_sudoku_you_are}
 ```
 
 ## Remerciement
-Merci à tous les organisateurs du CTF interiut, notre équipe (McHack) s'est beaucoup amusée. Il s'agissait de notre premier CTF en présentiel et le premier CTF que j'ai pu faire où il n'y a eu aucun problème d'infrastructure.
+Merci à tous les organisateurs du CTF interiut, notre équipe (McHack) s'est beaucoup amusée. Il s'agissait de notre premier CTF en présentiel et il n'y a eu absolument aucun problème que cela soit d'infrastructure ou d'organisation.
