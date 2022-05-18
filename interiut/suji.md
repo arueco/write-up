@@ -312,7 +312,7 @@ def valid(bo, num, pos):
   
     return True
 ```
-Comme dit précédemment, toutes ces fonctions sont de TechWithTim, comme nous étions pressé par le temps je ne me suis pas embêté à le faire moi-même.
+Comme dit précédemment, toutes ces fonctions sont de TechWithTim, comme nous étions pressés par le temps je ne me suis pas embêté à le faire moi-même.
 
 ## Envoyer la solution :
 La réponse que l'on doit envoyer au serveur consiste à envoyer un string qui est la concaténation de toutes les lignes du sudoku résolu.
