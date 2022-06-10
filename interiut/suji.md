@@ -502,33 +502,16 @@ if __name__ == '__main__':
 ```
 
 ## Récupérer le flag
-### Méthode simple mais décevante
-La solution simple est de lancer le programme en utilisant cette commande dans son terminal :
+
+Il ne reste plus qu'à lancer le script avec la commande suivante :
+
 ```
 python3 solve.py
 ```
-### Méthode difficile pour les points de style
-Mais, afin de gagner les points de style (que je n'ai malheureusement pas reçus), j'ai choisi une autre manière :
-![alt-text](images/touch_nano.png)
 
-Ici, *touch cul* ne fait pas ce que vous pouvez penser mais crée un fichier appelé cul.
-
-Ensuite, j'ouvre ce fichier avec nano et j'écris le texte suivant :
-
-![alt-text](images/nano.png)
-
-Afin d'exécuter ce fichier j'exécute une commande qui va plaire aux organisateurs de l'ENSIBS Cyberdéfense puisqu'elle est très sécurisée.
-
-![alt-text](images/chmod.png)
-
-Vous vous demandez sûrement où je veux en venir ! Eh bien c'est très simple, si on exécute ce fichier en tant que super utilisateur, nous obtenons ce très beau jeu de mot :
-
-![alt-text](images/sudo.png)
-
-> Pour ceux qui n'ont pas compris ça fait sudo cul  (sudoku).
 
 ### Flag
-Les deux méthodes vont mener au même résultat qui est le suivant :
+Obtention du flag :
 ![alt-text](images/result.png)
 
 Le flag est donc :
